@@ -3,3 +3,4 @@ This repository consists of 100 Python based projects ranging from a beginner le
 Projects include:
 
 1. Band Name Generator (print, input functions and string concatenation)
+2. Tip Calculator (Datatypes and f-strings)
