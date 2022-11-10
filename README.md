@@ -5,4 +5,4 @@ Projects include:
 1. Band Name Generator (print, input functions and string concatenation)
 2. Tip Calculator (Datatypes and f-strings)
 3. Treasure Island Game (if/else/elif, nested if/else)
-4.
+4. Rock Paper Scissors (randomization, lists and nested lists)
