@@ -6,3 +6,4 @@ Projects include:
 2. Tip Calculator (Datatypes and f-strings)
 3. Treasure Island Game (if/else/elif, nested if/else)
 4. Rock Paper Scissors (randomization, lists and nested lists)
+5. Password Generators (for loops, range, code blocks)
