@@ -9,5 +9,5 @@ Projects include:
 5. Password Generators (for loops, range, code blocks)
 6. Escape the maze (functions, while loop)
 7. Hangman (while loop, lists, for loop, modules)
-8. Cesar Cipher (functions)
+8. Cesar Cipher (functions, list.index())
 
