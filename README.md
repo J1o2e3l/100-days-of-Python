@@ -1,4 +1,4 @@
-# 100-days-of-Python
+# 100-Python-Scripts
 This repository consists of 100 Python based projects ranging from a beginner level to advanced level.
 Projects include:
 
