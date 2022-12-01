@@ -8,3 +8,5 @@ Projects include:
 4. Rock Paper Scissors (randomization, lists and nested lists)
 5. Password Generators (for loops, range, code blocks)
 6. Escape the maze (functions, while loop)
+7. Hangman (while loop, lists, for loop, modules)
+
