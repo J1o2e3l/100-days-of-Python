@@ -3,6 +3,7 @@
 import random
 from hangman_words import word_list
 from hangman_art import stages
+from replit import clear
 
 #TODO-1: - Update the word list to use the 'word_list' from hangman_words.py
 #Delete this line: word_list = ["ardvark", "baboon", "camel"]
