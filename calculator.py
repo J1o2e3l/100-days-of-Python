@@ -1,5 +1,5 @@
 from replit import clear
-from art import logo
+from calc_art import logo
 
 def add(n1, n2):
   return n1 + n2
