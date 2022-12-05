@@ -13,6 +13,7 @@ Projects include:
 9. Silent Auction (dictionaries, lists, nesting)
 10. Calculator (functions with multiple inputs, return, recursion)
 11. Blackjack Game
+12. Guess the number (Scope of variables)
 
 
 
