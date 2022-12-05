@@ -11,4 +11,5 @@ Projects include:
 7. Hangman (while loop, lists, for loop, modules)
 8. Cesar Cipher (functions with parameters, list.index())
 9. Silent Auction (dictionaries, lists, nesting)
+10. Calculator (functions with multiple inputs, return, recursion)
 
