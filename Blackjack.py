@@ -3,7 +3,7 @@
 
 import random
 from replit import clear
-from art import logo
+from bj_art import logo
 
 def deal_card():
   """Returns a random card from the deck."""
