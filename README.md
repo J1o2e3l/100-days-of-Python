@@ -16,7 +16,7 @@ Projects include:
 12. Guess the number (Scope of variables)
 13. Debugging 
 14. Higher or Lower
-15. 
+15. Virtual Coffee Machine
 
 
 
