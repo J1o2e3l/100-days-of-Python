@@ -14,6 +14,7 @@ Projects include:
 10. Calculator (functions with multiple inputs, return, recursion)
 11. Blackjack Game
 12. Guess the number (Scope of variables)
+13. Debugging 
 
 
 
