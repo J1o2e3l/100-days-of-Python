@@ -17,6 +17,7 @@ Projects include:
 13. Debugging 
 14. Higher or Lower
 15. Virtual Coffee Machine
+16. Coffee Machine using OOP
 
 
 
