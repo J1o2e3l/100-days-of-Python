@@ -20,6 +20,8 @@ Projects include:
 16. Coffee Machine using OOP
 17. True/False Quiz Trivia
 18. Spirograph
+19. Random Walk Painting
+20. Spot painting.
 
 
 
