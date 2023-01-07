@@ -23,6 +23,7 @@ Projects include:
 19. Random Walk Painting
 20. Spot painting.
 21. Turtle Race
+22. Snake Game
 
 
 
