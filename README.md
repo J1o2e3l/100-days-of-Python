@@ -24,6 +24,7 @@ Projects include:
 20. Spot painting.
 21. Turtle Race
 22. Snake Game
+23. Pong
 
 
 
