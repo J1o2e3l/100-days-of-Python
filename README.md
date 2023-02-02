@@ -26,6 +26,7 @@ Projects include:
 22. Snake Game
 23. Pong
 24. Turtle Crossing
+25. Mail Merge 
 
 
 
